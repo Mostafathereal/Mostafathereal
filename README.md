@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mostafa, a Software Engineering Student, Computer Vision enthusias, and ML hobbyist.  
+I'm Mostafa, a Software Engineering Student, and Computer Vision & ML hobbyist.  
 
 - 🔭 Currently working on a speed estimation challenge preented by comma.ai 
 - 🌱 Learning embedded AI and computer vision on the Nvidia Jetson Xavier NX
