@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Mostafa, a Software Engineering Student, and Computer Vision & ML hobbyist.  
+I'm Mostafa, a Perception Engineer and bird enthusiast
 
-- 🔭 Currently working on a speed estimation challenge preented by comma.ai 
-- 🌱 Learning embedded AI and computer vision on the Nvidia Jetson Xavier NX
+- 🔭 Currently working on voice commanded autonomous drones
+- 🌱 Perception engineering is my passion, the intersection of computer vision and robotics
 - 👯 I’m looking to collaborate on computer vision systems for autonomous robotics applications
 -  ⚡ Fun fact: Sun Conures are my favourite species of bird
 - 📫 Feel free to reach me at <reachmostafa.m@gmail.com>
